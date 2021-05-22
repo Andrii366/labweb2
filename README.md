@@ -7,4 +7,4 @@
 користувачами у реальному часі.
 Тематика додатку: онлайн чат
 
-Звіт: https://docs.google.com/document/d/1oc3ZSPEXYgMiX-pH2B_UN85NPTcOeARcc2h87UONYSY/edit?usp=sharing <br/>
+Звіт: https://docs.google.com/document/d/1B2_btNZK2dAn7ZT6rxYzoVXjMoxzEzTHsjXUeAZ9mBU/edit?usp=sharing <br/>
